@@ -23,16 +23,16 @@ const Footer = () => {
                   <a target="_blank">
                     <AiOutlineTwitter size={'1.4rem'}
                      className="duration-200 ease-in hover:scale-[1.2]"
-                      title="Facebook" />
+                      title="Twitter" />
                     </a>
                 </Link>
             </li>
             <li>
-                <Link href="https://www.twitter.com/" passHref legacyBehavior>
+                <Link href="https://www.snapchat.com/" passHref legacyBehavior>
                   <a target="_blank">
                     <RiSnapchatFill size={'1.4rem'}
                      className="duration-200 ease-in hover:scale-[1.2]"
-                      title="Facebook" />
+                      title="Snapchat" />
                     </a>
                 </Link>
             </li>
@@ -41,7 +41,7 @@ const Footer = () => {
                   <a target="_blank">
                     <AiFillInstagram size={'1.4rem'}
                      className="duration-200 ease-in hover:scale-[1.2]"
-                      title="Facebook" />
+                      title="Instagram" />
                     </a>
                 </Link>
             </li>
@@ -50,7 +50,7 @@ const Footer = () => {
                   <a target="_blank">
                     <IoLogoLinkedin size={'1.4rem'}
                      className="duration-200 ease-in hover:scale-[1.2]"
-                      title="Facebook" />
+                      title="LinkedIn" />
                     </a>
                 </Link>
             </li>
@@ -59,7 +59,7 @@ const Footer = () => {
                   <a target="_blank">
                     <AiFillGithub size={'1.4rem'}
                      className="duration-200 ease-in hover:scale-[1.2]"
-                      title="Facebook" />
+                      title="Github" />
                     </a>
                 </Link>
             </li>
