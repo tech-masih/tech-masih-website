@@ -3,6 +3,7 @@ const Header = () => {
   return (
     <header>
       <nav >
+        {/* Nav Logo */}
         <ul>
         {/* Nav Items Here */}
         </ul>
