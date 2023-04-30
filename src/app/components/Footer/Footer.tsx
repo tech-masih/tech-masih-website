@@ -5,7 +5,7 @@ import {RiSnapchatFill, RiFacebookBoxFill} from "react-icons/ri";
 
 const Footer = () => {
   return (
-    <footer className="p-2 lg:w-[1200px] mx-auto flex flex-col lg:flex-row flex-wrap items-center justify-center lg:justify-between gap-y-4 lg:gap-y-0">
+    <footer className="p-6 lg:w-[1200px] mx-auto flex flex-col lg:flex-row flex-wrap items-center justify-center lg:justify-between gap-y-4 lg:gap-y-0">
         <p className="font-normal text-center text-[16px] leading-6">&copy; Copyrights Tech Masih | All Rights Reserved</p>
         {/* Social Links  */}
         <ul className="list-none flex flex-wrap gap-4">
